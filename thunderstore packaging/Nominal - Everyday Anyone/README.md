@@ -1,0 +1,1 @@
+I thought it would be fun to learn how to chop music into TnH BGM and yeah I guess it was. This folder structure is a mess though. Anyways, enjoy this proper banger from the long forgotten years of the early 2010s.
