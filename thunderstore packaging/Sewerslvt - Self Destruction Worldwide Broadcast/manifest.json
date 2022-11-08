@@ -1,0 +1,9 @@
+{
+    "name": "TnH_BGM_Sewerslvt_Self_Destruction_Worldwide_Broadcast",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/The-Slime/H3VR-TNH-BGM",
+    "description": "Incredibly depressing DnB/breakcore to beat meat to",
+    "dependencies": [
+        "Potatoes-Potatoes_TNH_BGM_Loader-3.1.0"
+    ]
+}
